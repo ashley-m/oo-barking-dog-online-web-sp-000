@@ -16,6 +16,6 @@ class Dog
   def bark
     puts "woof!"
   end
-end
 
-new Dog.initialize("Fido")
+  new Dog.initialize("Fido")
+end
