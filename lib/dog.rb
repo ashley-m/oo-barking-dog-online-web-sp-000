@@ -17,3 +17,5 @@ class Dog
     puts "woof!"
   end
 end
+
+new Dog.initialize("Fido")
